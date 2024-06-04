@@ -1,0 +1,8 @@
+.button {
+    color: pink;
+    background-color:rgb(225, 85, 109);
+    font-weight: 800;
+    padding: 18px 30px;
+    margin: 5px 10px;
+    border: none;
+}
